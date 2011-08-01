@@ -1,0 +1,6 @@
+.classpath
+.gwt/
+.settings/
+war/WEB-INF/classes/
+war/WEB-INF/lib/
+
